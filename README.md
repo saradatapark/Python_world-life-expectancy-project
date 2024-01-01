@@ -1,4 +1,4 @@
-# python_world-life-expectancy-project
+# Python_world-life-expectancy-project
 
 ## STAGE ONE - Data Cleaning
 ### 1. Check for Incomplete Data
